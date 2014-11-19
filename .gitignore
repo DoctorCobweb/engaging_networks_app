@@ -1,0 +1,8 @@
+.privateDetails.json
+/node_modules
+.DS_STORE
+.tmp
+*.csv
+*.sw?
+*.rtf
+*.~lock.*
